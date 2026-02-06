@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@genkit-ai/ai": "^1.24.0",
-    "@genkit-ai/compat-oai": "^1.24.0",
+    "@genkit-ai/compat-oai": "^1.27.0",
     "@genkit-ai/core": "^1.24.0",
     "@genkit-ai/dotprompt": "^0.9.12",
     "@genkit-ai/firebase": "^1.24.0",
